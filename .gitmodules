@@ -1,0 +1,4 @@
+[submodule "kareemblog/public"]
+	path = kareemblog/public
+	url = https://github.com/Kareemsec/kareemsec.github.io.git
+	branch = main

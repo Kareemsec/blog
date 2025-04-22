@@ -1,0 +1,16 @@
+baseURL = 'https://kareemsec.github.io/'
+languageCode = 'en-us'
+title = 'My Security blog'
+theme = "hugo-blog-awesome"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/kareemwalid"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/kareemwalid17"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
